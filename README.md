@@ -69,5 +69,5 @@ Fish and Shellfish future demand:
 ![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture9.png)
 
 Sugar and candy future demand:
-![image](https://user-images.githubusercontent.com/97775044/215175244-0a9895de-46bf-49fd-af55-ecaac55fc118.png)
+![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture10.png)
 
