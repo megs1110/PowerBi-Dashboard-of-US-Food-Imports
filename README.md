@@ -71,3 +71,32 @@ Fish and Shellfish future demand:
 Sugar and candy future demand:
 ![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture10.png)
 
+Live meat animals future demand :
+![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture11.png)
+
+Beverages future demand:
+![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture12.png)
+
+Grains future demand :
+![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture13.png)
+
+Dairy future demand:
+![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture14.png)
+
+Cocoa and chocolate:
+![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture15.png)
+
+Meats future demand:
+![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture16.png)
+
+Nuts future demand:
+![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture17.png)
+
+Fruits future demand:
+![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture18.png)
+
+Coffee, tea and spices future demand:
+![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture19.png)
+
+
+
