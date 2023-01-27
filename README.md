@@ -40,7 +40,7 @@ Grains: There are only 15 unique values of brazil in Grains dataset.
 
 Grains: There are only 15 unique values of brazil in Grains dataset.
 
-![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture6.png)
+
 
 
 ##	Demand forecasting for next five years :
@@ -55,12 +55,19 @@ Solution :
 Forecasting the demand will help improve the decision making process and we can plan accordingly in the future and it will help make good inter country relationship, indirectly it will also help to predict the estimated expenditure of USA for imports of next five years.
 
 Vegetables Demand in future :
-![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture7.png)
+![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture6.png)
+
 
 Vegetable oils Demand in future :
-![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture8.png)
+![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture7.png)
+
 
 Other edible products future demand:
+![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture8.png)
+
+Fish and Shellfish future demand:
 ![Screenshot description](https://github.com/megs1110/PowerBi-Dashboard-of-US-Food-Imports/blob/39dd63774c32f4a61991403ff99765aa15418ac2/Picture9.png)
 
+Sugar and candy future demand:
+![image](https://user-images.githubusercontent.com/97775044/215175244-0a9895de-46bf-49fd-af55-ecaac55fc118.png)
 
